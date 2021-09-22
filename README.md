@@ -11,5 +11,3 @@
 * [codeup](https://codeup.kr/)
 * [code signal(영어)](https://codesignal.com/)
 
-
-test
