@@ -17,3 +17,8 @@
 * [codeup](https://codeup.kr/)
 * [code signal(영어)](https://codesignal.com/)
 
+
+## 1차시
+
+아나콘다 설치, 파이참 설치, 깃 연동, 파이썬 입출력
+
