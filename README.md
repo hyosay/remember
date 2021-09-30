@@ -22,3 +22,13 @@
 
 아나콘다 설치, 파이참 설치, 깃 연동, 파이썬 입출력
 
+
+```git
+git clone https://github.com/hyoseong-j/remember.git
+git add .
+git commit -m 'input_message'
+git push
+# if not push
+git pull
+git push
+``
