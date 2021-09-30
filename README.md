@@ -25,8 +25,9 @@
 
 ```git
 git clone https://github.com/hyoseong-j/remember.git
+cd remember
 git add .
-git commit -m 'input_message'
+git commit -m '여러분들이 원하는 메세지'
 git push
 # if not push
 git pull
