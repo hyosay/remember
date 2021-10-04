@@ -17,6 +17,10 @@
 * [codeup](https://codeup.kr/)
 * [code signal(영어)](https://codesignal.com/)
 
+## 공개 데이터 저장소
+* [캐글](https://www.kaggle.com/)
+* [아마존 AWS 데이터 셋](https://registry.opendata.aws/)
+
 
 ## 1차시
 
