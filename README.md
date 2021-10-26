@@ -37,3 +37,13 @@ git push
 git pull
 git push
 ``
+
+## 2차시
+```python
+
+a = []
+a.append() #a배열에 요소추가
+a.find()
+
+
+```
