@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9748f796-e1d2-4683-8214-bcd4ad48a836" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2750.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4495.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/동아리_2주차.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/동아리_2주차.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9748f796-e1d2-4683-8214-bcd4ad48a836" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +171,7 @@
       <workItem from="1633997744855" duration="619000" />
       <workItem from="1635250622157" duration="3249000" />
       <workItem from="1635255148766" duration="1469000" />
-      <workItem from="1635324393199" duration="6708000" />
+      <workItem from="1635324393199" duration="7343000" />
     </task>
     <servers />
   </component>
@@ -211,7 +203,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hyoseong$first.coverage" NAME="first Coverage Results" MODIFIED="1633439411097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/hyoseong$4495.coverage" NAME="4495 Coverage Results" MODIFIED="1635331290510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hyoseong$4495.coverage" NAME="4495 Coverage Results" MODIFIED="1635331319552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hyoseong$aa.coverage" NAME="aa Coverage Results" MODIFIED="1635324524700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hyoseong$week_3.coverage" NAME="week_3 Coverage Results" MODIFIED="1635329700012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hyoseong$2750.coverage" NAME="2750 Coverage Results" MODIFIED="1635255559952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
