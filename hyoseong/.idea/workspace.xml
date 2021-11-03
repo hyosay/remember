@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9748f796-e1d2-4683-8214-bcd4ad48a836" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/amazingno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soonju/jungol1102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soonju/jungol2634.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4495.py" beforeDir="false" afterPath="$PROJECT_DIR$/4495.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soonju/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/../soonju/first.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,7 @@
       <workItem from="1635250622157" duration="3249000" />
       <workItem from="1635255148766" duration="1469000" />
       <workItem from="1635324393199" duration="7343000" />
-      <workItem from="1635908315188" duration="10750000" />
+      <workItem from="1635908315188" duration="11421000" />
     </task>
     <servers />
   </component>
