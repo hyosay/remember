@@ -7,4 +7,3 @@ for i in range(n):
         stack.append(inputValue[1])    # 쌓임
     elif inputValue[0] == 'o':   # 안에 잇음
         if stack:
-            
