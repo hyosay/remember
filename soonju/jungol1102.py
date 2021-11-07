@@ -7,3 +7,8 @@ for i in range(n):
         stack.append(inputValue[1])    # 쌓임
     elif inputValue[0] == 'o':   # 안에 잇음
         if stack:
+            print(stack.pop())
+        else:
+            print('empty')
+    elif inputValue[0] == 'c':
+        print(len(stack))
