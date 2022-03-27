@@ -1,29 +1,24 @@
-n = int(input())
-arr = []
+n, m, k = map(int, input().split())
+ans = 0
 
-for i in range(n):
-    arr.append((list(map(str, input().split()))))
-print(arr)
-stack_2 = []
-
-for j in range(n):
-    if arr[j][0] == 'i':
-        stack_2.append(int(arr[j][1]))
-    elif arr[j][0] == 'c':
-        print(len(stack_2))
-    elif arr[j][0] == 'o':
-        if len(stack_2) == 0:
-            print('empty')
-        else:
-            print(stack_2.pop())
-
-# cd remember
-# git pull
-# git add .
-# git commit -m 'week4'
-# git push
-# error
-# git pull  후 다시 git push
-
-
-
+if n + k < m or k > m or max(n, m, k) > 30:
+    print('Condition error')
+else:
+    stack = list(map(int, input().split()))
+    stack = sorted(stack, reverse=True)
+# 24 24 11
+# 29 28 30 8 26 12 11 1 24 24 27 21 19 1 15 21 12 12 14 1 10 12 22 30
+    if len(stack) == 0 or len(stack) > 30:
+        print('Condition error')
+    else:
+        count = 1
+        cnt = 0
+        for i in range(m):
+            if k == count:
+                ans += stack[cnt]
+                count = 0
+                cnt += 1
+            else:
+                ans += stack[cnt]
+            count += 1
+        print(ans)
