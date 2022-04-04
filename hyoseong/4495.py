@@ -21,8 +21,14 @@ for i in range(1, a + 1):
 
 print(count)'''
 
+n = int(input())
+count = 0
+for i in range(1, n+1):
+    k=0
+    for j in str(i): # '13'
+        k += int(j)
 
-# 1단계 약수를 구하는 알고리즘
-# 2단계  정수의 합을 구하는 알고리즘
-# 3단계 신비한 수를 구하는 알고리즘
-# 4단계 n번 반복하기
+    if i % k == 0:
+        count += 1
+    print(k)
+print(count)
